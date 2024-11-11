@@ -1,0 +1,12 @@
+# Frontend dependencies
+    react
+    react-dom
+    react-router-dom
+    formik
+    yup
+    framer-motion
+
+    # Backend dependencies (if applicable)
+    express
+    cors
+    body-parser
